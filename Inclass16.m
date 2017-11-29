@@ -1,4 +1,10 @@
 % Inclass16
+%GB comments
+1 100 
+2 100 worked for me 
+3 75 This should really be looped for all possible matching cells between timeframes
+overall 92
+
 
 %The folder in this repository contains code implementing a Tracking
 %algorithm to match cells (or anything else) between successive frames. 
